@@ -1,4 +1,4 @@
-# 🐱‍🏍 Projeto: História do Android
+# Projeto: História do Android
 
 Este foi um dos meus primeiros projetos com HTML e CSS, que acabei esquecendo de publicar anteriormente. Trata-se de uma página no estilo blog, dedicada a contar a história do mascote do Android de forma visualmente atrativa e informativa.
 
